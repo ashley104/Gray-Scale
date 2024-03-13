@@ -1,0 +1,17 @@
+h1 {
+  font-family: 'Roboto Slab', serif;
+  color: dimgray;
+}
+
+body {
+  margin: 30px;
+}
+
+canvas {
+  height: 200px;
+  border: 1px solid lightgray;
+}
+
+input {
+  font-size: 12pt;
+}
